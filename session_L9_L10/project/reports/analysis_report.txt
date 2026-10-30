@@ -1,0 +1,16 @@
+Folder Analysis Report
+==============================
+Analyzed folder: D:\amir\New folder (3)\Desktop\project
+Total files: 1
+Total size: 9.06 KB
+Average file size: 9.06 KB
+
+File Details:
+main.py : 9.06 KB(rounded up : 10 KB)
+
+Largest and Smallest Files :
+Largest file : main.py (9.06 KB)
+Smallest file : main.py (9.06 KB)
+
+Files by Extension :
+.py : 1
